@@ -4,7 +4,7 @@ const meta = [
   { label: "Adj. EBITDA 2025", value: "$6.6B", cls: "accent" },
   { label: "Starlink Subs (Q1'26)", value: "10.3M", cls: "accent" },
   { label: "Total Assets (Q1'26)", value: "$102.1B", cls: "accent" },
-  { label: "IPO Price", value: "TBD", cls: "rocket" },
+  { label: "IPO Price", value: "$135", cls: "rocket" },
 ];
 
 export default function ReportHeader() {
