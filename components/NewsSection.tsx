@@ -2,7 +2,7 @@
 const FEED_URL =
   "https://news.google.com/rss/search?q=SpaceX&hl=en-US&gl=US&ceid=US:en";
 
-const MAX_ITEMS = 8;
+const MAX_ITEMS = 100;
 
 type NewsItem = {
   title: string;

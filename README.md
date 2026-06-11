@@ -1,6 +1,6 @@
-# SpaceX S-1 — IPO Investment Analysis
+# S-1 — IPO Investment Analysis
 
-A Next.js (App Router) site rendering the SpaceX S-1 IPO investment committee report. Converted from the original static `SpaceX_S1_IPO_Analysis.html`.
+A Next.js (App Router) site rendering the S-1 IPO investment committee report.
 
 ## Structure
 
@@ -19,17 +19,3 @@ npm run dev
 
 Open http://localhost:3000.
 
-## Deploy to Vercel
-
-Option 1 — Git integration (recommended):
-
-1. Push this repository to GitHub/GitLab/Bitbucket.
-2. Go to [vercel.com/new](https://vercel.com/new) and import the repository.
-3. Vercel auto-detects Next.js — no configuration needed. Click **Deploy**.
-
-Option 2 — Vercel CLI:
-
-```bash
-npm i -g vercel
-vercel
-```
